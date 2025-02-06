@@ -1,5 +1,5 @@
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   background: #f5f7fa;
 }
 
@@ -188,7 +188,7 @@ h1 {
   text-align: justify;
   font-size: 12px;
   line-height: 1.6;
-  margin-top: 190px;
+  margin-top: 500px;
   padding: 40px;
   color: #f5f7fa;
 }
