@@ -91,16 +91,19 @@ h1 {
   font-size: 14px;
   line-height: 171%;
   color: #595959;
+  text-align: justify;
+  text-align-last: left;
 }
 
-.description a {
+.description-link {
   text-decoration: none;
   color: #595959;
   font-weight: bold;
+  transition: color 0.3s ease-in-out;
 }
 
-.description a:hover {
-  color: black;
+.description-link:hover {
+  color: rgb(44, 44, 44);
 }
 
 .projects {
@@ -122,6 +125,7 @@ h1 {
   line-height: 171%;
   color: #595959;
   text-decoration: none;
+  transition: color 0.3s ease-in-out;
 }
 
 .list-primary-items:hover {
